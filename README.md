@@ -32,4 +32,6 @@ A2: Ted and DJ, thank you! No links, but you know who you are 😃 ❤️
 
 ### Q: Could you open-source it?
 
-A: Maybe!
+A: Maybe?
+
+A2: But if you're Bungie, of course, come on in and have a look around and take everything. It is solely for your game after all, and the assets in the app are all yours 😉
