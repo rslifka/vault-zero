@@ -8,4 +8,4 @@ To submit a bug, make a feature request or any other question or concern, head o
 
 ### Q: Will there be an Android or iPhone version? You could use Flutter or React Native or...
 
-A: Just to get out ahead of this one 😉 no, sorry. I'm just one person am making something first and foremost that I find super useful. I've been quite enjoying Swift, SwiftUI and iOS development; that's enough for me. I realize that narrows down the folks who might find this useful, and that's OK! There's lots of amazing Destiny apps out there 🎉 ❤️
+A: Just to get out ahead of this one 😉 no, sorry. I'm just one person making something first and foremost that I find super useful. I've been quite enjoying Swift, SwiftUI and iOS development; that's enough for me. I realize that narrows down the folks who might find this useful, and that's OK! There's lots of amazing Destiny apps out there 🎉 ❤️
