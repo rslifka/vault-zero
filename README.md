@@ -8,13 +8,23 @@ Welcome to the issue tracker for the [Vault Zero](https://www.vaultzero.app/) iP
 
 A: Just to get out ahead of this one 😉 no, sorry. I'm just one person making something first and foremost that I find super useful. I've been quite enjoying Swift, SwiftUI and iOS development; that's enough for me. I realize that narrows down the folks who might find this useful, and that's OK! There's lots of amazing Destiny apps out there 🎉 ❤️
 
+### Q: iPadOS 16.4 and macOS 13.0 are pretty hard pins, can you lower the reqs?
+
+A: It's kinda two questions, and both come down to "I'm just one person" 🙂 For iPadOS, some SwiftUI components are only available in the latest major version (i.e. 16) and I only have one iPad that auto-updates to the latest iPadOS version. That means it's all I can confidently test on. On macOS I have only my MacBook on the latest macOS. "But Slif, there are ways..." I know, but again - just me. I'd rather invest this time in adding new features and making sure what's there stays up and running.
+
 ### Q: What tech did you use?
 
-A: Swift, SwiftUI and CoreData with the phenomenal [AlamoFire](https://github.com/Alamofire/Alamofire) being used for API interactions. Vault Zero is primarily test-driven using [XCTest](https://github.com/apple/swift-corelibs-xctest) with over 191 tests as of this writing.
+A: Swift, SwiftUI and CoreData with the phenomenal [AlamoFire](https://github.com/Alamofire/Alamofire) being used for HTTP. Vault Zero is primarily test-driven using [XCTest](https://github.com/apple/swift-corelibs-xctest) with 192 tests as of this writing.
 
 ### Q: How long did this take?
 
 A: The first commit was August, 2021 - starting without knowledge of app development nor the languages and technologies required.
+
+### Q: How many people contributed?
+
+A: There's one developer (me) but there's no chance I could have shipped this without the great people over at the [unofficial Discord for the Bungie.net API](https://discord.gg/E5uB4BW). Their generosity with their time is truly amazing, and the tools they've built to help Bungie.net API developers are indispensible.
+
+A2: Ted and DJ, thank you! No links, but you know who you are 😃 ❤️
 
 ### Q: Could you open-source it?
 
