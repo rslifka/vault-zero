@@ -16,7 +16,7 @@ A: Swift, SwiftUI and CoreData with the phenomenal [AlamoFire](https://github.co
 
 ### Q: How long did this take?
 
-A: The first commit was August, 2021 - starting without knowledge of app development nor the languages and technologies associated with them.
+A: The first commit was August, 2021 - starting without knowledge of app development nor the languages and technologies required.
 
 ### Q: Could you open-source it?
 
