@@ -12,7 +12,7 @@ A: Just to get out ahead of this one 😉 no, sorry. I'm just one person making 
 
 A: Nope, there is no data collection. Your data is stored only on your device and used to make the app go. The only network traffic is between your device and Bungie.
 
-### Q: iPadOS 16.4 and macOS 13.0 are pretty hard pins, can you lower the reqs?
+### Q: iPadOS 16.0 and macOS 13.0 are pretty hard pins, can you support earlier versions?
 
 A: It's kinda two questions, and both come down to "I'm just one person" 🙂 For iPadOS, some SwiftUI components are only available in the latest major version (i.e. 16) and I only have one iPad that auto-updates to the latest iPadOS version. That means it's all I can confidently test on. On macOS I have only my MacBook on the latest macOS. "But Slif, there are ways..." I know and I truly appreciate the advice and suggestions, but again - just me. I'd rather invest this time in adding new features and making sure what's there stays up and running.
 
