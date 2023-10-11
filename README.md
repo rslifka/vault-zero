@@ -18,7 +18,7 @@ A: It's kinda two questions, and both come down to "I'm just one person" 🙂 Fo
 
 ### Q: What tech did you use?
 
-A: Swift, SwiftUI and CoreData with the phenomenal [AlamoFire](https://github.com/Alamofire/Alamofire) being used for HTTP. Vault Zero is primarily test-driven using [XCTest](https://github.com/apple/swift-corelibs-xctest) with 192 tests as of this writing.
+A: Swift, SwiftUI and CoreData with the phenomenal [AlamoFire](https://github.com/Alamofire/Alamofire) being used for HTTP. Vault Zero is primarily test-driven using [XCTest](https://github.com/apple/swift-corelibs-xctest) with 271 tests as of this writing.
 
 ### Q: How long did this take?
 
@@ -32,6 +32,6 @@ A2: Ted and DJ, thank you! No links, but you know who you are 😃 ❤️
 
 ### Q: Could you open-source it?
 
-A: Maybe?
+A: Maybe.
 
 A2: But if you're Bungie, of course, come on in and have a look around and take everything. It is solely for your game after all, and the assets in the app are all yours 😉
