@@ -6,7 +6,12 @@ Welcome to the issue tracker for the [Vault Zero](https://www.vaultzero.app/) iP
 
 ### Q: Will there be an Android or iPhone version? You could use Flutter or React Native or...
 
-A: Just to get out ahead of this one 😉 no, sorry. I'm just one person making something first and foremost that I find super useful. I've been quite enjoying Swift, SwiftUI and iOS development; that's enough for me. I realize that narrows down the folks who might find this useful, and that's OK! There's lots of amazing Destiny apps out there 🎉 ❤️
+A: Just to get out ahead of this one: no, sorry; I'm just one person working on this in my spare time 🙂 I realize that narrows down the folks who might find this useful, and that's OK! There's lots of amazing Destiny apps out there on several platforms.
+
+* [Destiny Item Manager](https://destinyitemmanager.com/)
+* [BrayTech](https://bray.tech/)
+* [D2Foundry](https://d2foundry.gg/)
+* [Light.gg](https://www.light.gg/)
 
 ### Q: Does this app collect any data or save my information somewhere off my device?
 
@@ -14,7 +19,7 @@ A: Nope, there is no data collection. Your data is stored only on your device an
 
 ### Q: iPadOS 16.0 and macOS 13.0 are pretty hard pins, can you support earlier versions?
 
-A: It's kinda two questions, and both come down to "I'm just one person" 🙂 For iPadOS, some SwiftUI components are only available in the latest major version (i.e. 16) and I only have one iPad that auto-updates to the latest iPadOS version. That means it's all I can confidently test on. On macOS I have only my MacBook on the latest macOS. "But Slif, there are ways..." I know and I truly appreciate the advice and suggestions, but again - just me. I'd rather invest this time in adding new features and making sure what's there stays up and running.
+A: It's kinda two questions, and both come down to "I'm just one person". For iPadOS, some SwiftUI components are only available in the latest major version (i.e. 16) and I only have one iPad that auto-updates to the latest iPadOS. That means it's all I can confidently test on. On macOS I have only my MacBook on the latest macOS. "But Slif, there are ways..." I know and I truly appreciate the advice and suggestions, but again - just me. I'd rather invest this time in adding new features and making sure what's there stays up and running.
 
 ### Q: What tech did you use?
 
@@ -22,7 +27,7 @@ A: Swift, SwiftUI and CoreData with the phenomenal [AlamoFire](https://github.co
 
 ### Q: How long did this take?
 
-A: The first commit was August, 2021 - starting without knowledge of app development nor the languages and technologies required.
+A: The first commit was August, 2021 - starting without knowledge of app development nor the languages and technologies required. Here we are, two years and 1,375 commits later...
 
 ### Q: How many people contributed?
 
@@ -32,6 +37,6 @@ A2: Ted and DJ, thank you! No links, but you know who you are 😃 ❤️
 
 ### Q: Could you open-source it?
 
-A: Maybe.
+A: I might!
 
 A2: But if you're Bungie, of course, come on in and have a look around and take everything. It is solely for your game after all, and the assets in the app are all yours 😉
