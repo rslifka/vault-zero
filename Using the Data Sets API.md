@@ -45,6 +45,9 @@ let components = [
 1. Head over to the `/GetProfile` endpoint page again, but you want to use [this link](https://data.destinysets.com/api/Destiny2.GetProfile?components=102,200,201,202,204,205,300,301,305,309,900,1000,1200), which has pre-filled all the above components.
 1. Fill in the Membership ID and Membership Type.
 1. Ensure the "OAuth access_token" checkbox is checked.
+1. Open the Web Inspector (View > Developer > Developer Tools).
+1. Click on the "Network" tab.
 1. Press "Send".
-1. Click on "Raw JSON". The browser will pause for a second because it's a lot of data. Grab a drink, snack, etc.
-1. Download the entire page (or copy-and-paste, whichever is fine), save it and send it my way!
+1. Right-click on the network request that went out, and then save a HAR file for the request, as shown below. Then send it on over!
+
+![CleanShot 2024-01-17 at 17 45 08@2x](https://github.com/rslifka/vault-zero/assets/231435/982f3afa-8c6b-44c4-9f78-6ccf00172b40)
