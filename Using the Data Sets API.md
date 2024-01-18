@@ -46,4 +46,5 @@ let components = [
 1. Fill in the Membership ID and Membership Type.
 1. Ensure the "OAuth access_token" checkbox is checked.
 1. Press "Send".
-1. Click on "Raw JSON". The browser will pause for a second because it's a lot of data.
+1. Click on "Raw JSON". The browser will pause for a second because it's a lot of data. Grab a drink, snack, etc.
+1. Download the entire page (or copy-and-paste, whichever is fine), save it and send it my way!
