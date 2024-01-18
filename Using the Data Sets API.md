@@ -47,7 +47,9 @@ let components = [
 1. Ensure the "OAuth access_token" checkbox is checked.
 1. Open the Web Inspector (View > Developer > Developer Tools).
 1. Click on the "Network" tab.
-1. Press "Send".
-1. Right-click on the network request that went out, and then save a HAR file for the request, as shown below. Then send it on over!
+1. Back on the website now, press "Send".
+1. The request will be submitted and you'll see something like `{crazy long number}/components` in the list of requests.
+1. Right-click on that line, and save the HAR file, as shown below.
+1. Send it on over!
 
 ![CleanShot 2024-01-17 at 17 45 08@2x](https://github.com/rslifka/vault-zero/assets/231435/982f3afa-8c6b-44c4-9f78-6ccf00172b40)
